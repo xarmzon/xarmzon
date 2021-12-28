@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Adelola Kayode Samson - but call me RastaXarm :grinning:
 #### :star: I am Full-Stack Web. Dev., Teacher, Mathematician :star:
-![:star: I am Full-Stack Web. Dev., Teacher, Mathematician :star:](https://github.com/xarmzon/xarmzon/blob/main/rasta_1.jpg)
+![:star: I am Full-Stack Web. Dev., Teacher, Mathematician :star:](https://github.com/xarmzon/xarmzon/blob/main/rasta_2.jpg)
 
 A Full-Stack Web Developer from Nigeria.  A 400 level student of Better by Far University currently studying Mathematics from the University of Ilorin, Ilorin Kwara State Nigeria. Sharing and contributing to the IT community is something I enjoy doing, and it has become an important aspect of me and I enjoy sharing what I've learned.
 
