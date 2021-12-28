@@ -2,8 +2,6 @@
 #### :star: I am Full-Stack Web. Dev., Teacher, Mathematician :star:
 ![:star: I am Full-Stack Web. Dev., Teacher, Mathematician :star:](https://github.com/xarmzon/xarmzon/blob/main/rasta_2_.jpg)
 
-Hi there, I am Kayode Samson Adelola - but I enjoyed being called RastaXarm.
-
 A professional and talented Full-Stack Web Developer from Nigeria. A 400 level student of Better by Far University currently studying Mathematics from the University of Ilorin, Ilorin Kwara State Nigeria.
 
 I build/develop websites with HTML, CSS and JavaScript and I have worked on the web for over 3 years with experience ranging from VueJS, ReactJS, NextJs, TailwindCSS, TypeScript, CSS, MongoDB, Flask(Python), ExpressJS(NodeJS), SQLAlchemy etc.
