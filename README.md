@@ -6,7 +6,6 @@ A Full-Stack Web Developer from Nigeria.  A 400 level student of Better by Far U
 
 Skills: JS / HTML / CSS / REACT / NEXT JS / MONGODB / TAILWIND CSS / MATERIAL UI / VUE JS  / PYTHON / SQL
 
-- 🔭 I’m currently working on this page. 
 - 😄 Pronouns: He/Him 
 
 
