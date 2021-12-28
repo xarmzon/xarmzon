@@ -4,7 +4,7 @@
 
 A professional and talented Full-Stack Web Developer from Nigeria. A 400 level student of Better by Far University currently studying Mathematics from the University of Ilorin, Ilorin Kwara State Nigeria.
 
-I build/develop websites with HTML, CSS and JavaScript and I have worked on the web for over 3 years with experience ranging from VueJS, ReactJS, NextJs, TailwindCSS, TypeScript, CSS, MongoDB, Flask(Python), ExpressJS(NodeJS), SQLAlchemy etc.
+I build and develop websites with HTML, CSS and JavaScript and I have worked on the web for over 3 years with experience ranging from VueJS, ReactJS, NextJs, TailwindCSS, TypeScript, CSS, MongoDB, Flask(Python), ExpressJS(NodeJS), SQLAlchemy etc.
 
 Being a diligent, hardworking, and result-oriented lad, I always strive hard towards achieving the best results on each project/task I lay my hands on and I am passionate about leveraging my diverse experience to solve challenging problems and create delightful experiences.
 
