@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Adelola Kayode Samson - but call me RastaXarm :grinning:
+### Hi there 👋, I'm Kayode Samson Adelola - but call me RastaXarm :grinning:
 #### :star: I am Full-Stack Web. Dev., Teacher, Mathematician :star:
 ![:star: I am Full-Stack Web. Dev., Teacher, Mathematician :star:](https://github.com/xarmzon/xarmzon/blob/main/rasta_2_.jpg)
 
