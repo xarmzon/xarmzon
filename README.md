@@ -2,7 +2,7 @@
 #### :star: A Full-Stack Web. Dev., Teacher and Mathematician :star:
 ![:star: I am a Full-Stack Web. Dev., Teacher, Mathematician :star:](https://github.com/xarmzon/xarmzon/blob/main/rasta_2_.jpg)
 
-A professional and talented Full-Stack Web Developer from Nigeria. A 400 level student of Better by Far University currently studying Mathematics from the University of Ilorin, Ilorin Kwara State Nigeria.
+A professional and talented Full-Stack Web Developer from Nigeria. A recent graduate of Mathematics Department, University of Ilorin, Ilorin Kwara State Nigeria.
 
 I build and develop websites with HTML, CSS and JavaScript and I have worked on the web for over 3 years with experience ranging from VueJS, ReactJS, NextJs, TailwindCSS, TypeScript, CSS, MongoDB, Flask(Python), ExpressJS(NodeJS), SQLAlchemy etc.
 
