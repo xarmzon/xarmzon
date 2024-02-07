@@ -4,14 +4,14 @@
 
 A professional and talented Full-Stack Web Developer from Nigeria. A graduate of Mathematics Department, University of Ilorin, Ilorin Kwara State Nigeria.
 
-I build and develop websites with HTML, CSS and JavaScript and I have worked on the web for over 4 years with experience ranging from ReactJS, NextJs, TailwindCSS, TypeScript, ExpressJS(NodeJS), MongoDB, VueJS, Flask(Python), SQLAlchemy etc.
+I build and develop websites with HTML, CSS and JavaScript and I have worked on the web for years with experience ranging from ReactJS, NextJs, TailwindCSS, TypeScript, ExpressJS(NodeJS), MongoDB, VueJS, Angular, Ionic mobile framework, ReactNative etc.
 
 Being a diligent, hardworking, and result-oriented lad, I always strive hard towards achieving the best results on each project/task I lay my hands on and I am passionate about leveraging my diverse experience to solve challenging problems and create delightful experiences.
 
 I strengthened my skills in Web Development, Graphics Designs, and Teaching others by sharing and contributing to the IT community is something I enjoy doing, and it has become an important aspect of me and I enjoy sharing what I've learned.
 
 
-Skills: HTML / CSS / JS / TYPESCRIPT / REACT / NEXT JS / PYTHON / MONGODB / TAILWIND CSS / MATERIAL UI / LATEX
+STACKS: TYPESCRIPT / REACT / NEXT JS / ANGULARJS / REACT-NATIVE / IONIC-FRAMEWORK / PYTHON / HTML / CSS / JS / MONGODB / TAILWIND CSS / LATEX
 
 - 😄 Pronouns: He/Him 
 
