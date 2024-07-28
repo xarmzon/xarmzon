@@ -11,7 +11,7 @@ Being a diligent, hardworking, and result-oriented lad, I always strive hard tow
 I strengthened my skills in Web Development, Graphics Designs, and Teaching others by sharing and contributing to the IT community is something I enjoy doing, and it has become an important aspect of me and I enjoy sharing what I've learned.
 
 
-STACKS: TYPESCRIPT / REACT / NEXT JS / ANGULARJS / REACT-NATIVE / IONIC-FRAMEWORK / PYTHON / HTML / CSS / JS / MONGODB / TAILWIND CSS / LATEX
+STACKS: TYPESCRIPT / REACT / NEXT JS / ANGULARJS / FLUTTER / REACT-NATIVE / IONIC-FRAMEWORK / PYTHON / HTML / CSS / JS / MONGODB / TAILWIND CSS / LATEX
 
 - 😄 Pronouns: He/Him 
 
